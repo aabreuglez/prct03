@@ -1,5 +1,6 @@
 Respuestas a la práctica 3
 1.-¿Cuál es el proposito de trabajar con múltiples ramas?
+2.-¿Qué es una reorganización (rebase?)
 
 
 
